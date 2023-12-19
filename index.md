@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Chulapa on remote
+title: Two Wheels In
 header_type: hero
-subtitle: Starter pack
+subtitle: The adventures of David and Dalma as they travel the world. On Motorcycles.
 ---
 
 Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
