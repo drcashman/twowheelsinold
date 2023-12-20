@@ -1,4 +1,5 @@
-remote_theme: dieghernan/chulapa
+remote_theme            : dieghernan/chulapa
+repository              : drcashman/twowheelsin
    
 # Find errors on this file with http://www.yamllint.com/
 
@@ -15,7 +16,7 @@ description             : #default [your-repository-tagline]
 url                     :     #See baseurl - On Github Pages you may leave it blank - If you use CNAME use your domain
 baseurl                 :     #On Github Pages you may leave it blank. Have a look to: https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
 words_per_minute        :     #default[200]
-timezone                :  Sydney/Australia   #"Europe/Madrid ,see https://jekyllrb.com/docs/configuration/options/ and https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone                :  Australia/Sydney   #"Europe/Madrid ,see https://jekyllrb.com/docs/configuration/options/ and https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # SEO
