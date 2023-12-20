@@ -1,6 +1,7 @@
 ---
 title : The good and the bad of motorcycling in Bali
 author: Dalma
+tag: Bali 2022
 ---
 
 ## The Good
