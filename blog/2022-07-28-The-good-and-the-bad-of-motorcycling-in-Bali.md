@@ -9,11 +9,13 @@ author: Dalma
 
 We loved staying in traditional Balinese-style guest houses and villas—although I am still unsure of the difference between the two. The grass-roof bamboo stilt house in Amlapura was an exceptional delight, despite its lack of strong lights, cooling, or … walls. The outdoor bathrooms were all stylish, plant-filled, and a strangely fun experience. (Yes, I know, I have a thing for them). Lush nature, water, and various deities are omnipresent in all gardens, and for two atheists, we quite enjoyed the statues, small temples and offerings put out everywhere. Balinese architecture’s colours, materials, and overall atmosphere are so full of joyful calm and balance that we would like to replicate it at home if we can.
 
+![](../assets/img/bali/220729/g1.jpg)
 
 ### 2. The beaches are beautiful
 
 Rocky or sandy, the black volcanic beaches of Bali have a peculiar feel. We walked on unusually sparkly fine black sand in Pulukum with nobody else on the vast beach, watching small crabs roll the sand in tiny round balls to build city-like avenues. We watched locals extract salt from black mud on Amed beach, search for fish bait under black rocks polished to perfection by the waves in Amlapura, or collect clams in the corral-filled shallows for soup in Lovina. Each beach was different but equally humbling in its majestic beauty.
 
+![](../assets/img/bali/220729/g2.jpg)
 
 ### 3. The Balinese locals are wonderful people.
 
